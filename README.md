@@ -1,12 +1,12 @@
-# 🎓 Sujets de Projets L3 – Génie Informatique & Transformation Numérique Universitaire
+# Sujets de Projets L3 – Génie Informatique & Transformation Numérique Universitaire
 
 > Université de Mahajanga · Année 2025–2026 · Encadrant : M. BEZARA Roussel Florent
 
-## 📖 Description
+## Description
 
 Ce dépôt contient **10 fiches de sujets de projets** prêtes à distribuer aux étudiants de Licence 3 Génie Informatique. Chaque sujet est purement technique (développement, IA, sécurité, analyse de données) tout en étant connecté à la problématique de la **gestion pédagogique et administrative face à la transformation numérique** dans les universités malgaches.
 
-## 📂 Structure du dépôt
+## Structure du dépôt
 
 ```
 ├── README.md                              ← Ce fichier
@@ -14,7 +14,7 @@ Ce dépôt contient **10 fiches de sujets de projets** prêtes à distribuer aux
 └── anonymize.py                           ← Script Python d'anonymisation prêt à l'emploi
 ```
 
-## 🗂️ Les 10 sujets
+## Les 10 sujets
 
 | # | Titre | Domaine |
 |---|-------|---------|
@@ -29,16 +29,16 @@ Ce dépôt contient **10 fiches de sujets de projets** prêtes à distribuer aux
 | 9 | Mettre en place un vote électronique sécurisé | Sécurité / Crypto |
 | 10 | Construire un tableau de bord décisionnel pédagogique | BI / Dashboard |
 
-## 📎 Annexes incluses
+## Annexes incluses
 
-- ✅ Modèle de consentement éclairé imprimable
-- ✅ Clause de réutilisation des données
-- ✅ Script Python d'anonymisation (SHA-256 salé)
-- ✅ Schéma CSV standardisé pour la remise des données
-- ✅ Checklist technique d'anonymisation
-- ✅ Message de recrutement des participants
+- Modèle de consentement éclairé imprimable
+- Clause de réutilisation des données
+- Script Python d'anonymisation (SHA-256 salé)
+- Schéma CSV standardisé pour la remise des données
+- Checklist technique d'anonymisation
+- Message de recrutement des participants
 
-## 🔧 Utilisation du script d'anonymisation
+## Utilisation du script d'anonymisation
 
 ```bash
 # Installer Python 3.x (aucune dépendance externe)
@@ -51,7 +51,7 @@ export ANON_SALT="mon_sel_secret_2025"
 python anonymize.py donnees_brutes.csv donnees_anonymisees.csv
 ```
 
-## 📄 Licence
+## Licence
 
 Ce document est diffusé sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
