@@ -1,6 +1,6 @@
 # Sujets de Mémoires – Licence 3 Génie Informatique
 
-**Université de Mahajanga** – Faculté des Sciences – Département Génie Informatique  
+**Université de Mahajanga**  
 **Année universitaire 2025–2026**  
 **Encadrant** : M. BEZARA Roussel Florent
 
