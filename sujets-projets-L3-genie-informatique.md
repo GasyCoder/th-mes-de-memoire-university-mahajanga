@@ -15,8 +15,8 @@ Voici les thèmes proposés pour les projets de fin d'études, formulés sous fo
 **1. Réalisation d'une plateforme web pour la certification et la vérification de l'authenticité des diplômes par empreinte cryptographique.**
 - **Stack** : Python (Flask), React.js, SHA-256, PostgreSQL.
 
-**2. Conception et mise en œuvre d'un système de signalement anonyme des dysfonctionnements universitaires garantissant la confidentialité des usagers.**
-- **Stack** : PHP (Laravel), Tailwind CSS, PostgreSQL.
+**2. Conception et mise en œuvre d'une plateforme sécurisée de signalement anonyme des cas de corruption et de harcèlement en milieu universitaire.**
+- **Stack** : PHP (Laravel), Tailwind CSS, PostgreSQL, Chiffrement des données.
 
 **3. Développement d'une application de vote électronique sécurisée pour la modernisation des élections des délégués étudiants.**
 - **Stack** : Python (Django), Chiffrement RSA/AES, PostgreSQL.
@@ -35,8 +35,8 @@ Voici les thèmes proposés pour les projets de fin d'études, formulés sous fo
 **7. Développement d'une solution mobile de pointage étudiant par QR Code dynamique pour le suivi des présences en temps réel.**
 - **Stack** : Flutter, Node.js, QR Codes dynamiques, MySQL.
 
-**8. Réalisation d'un outil numérique pour l'automatisation du calcul et de la validation hiérarchique des heures d'enseignement.**
-- **Stack** : PHP (Laravel), React, DomPDF.
+**8. Développement d'un écosystème numérique complet (API, Application Mobile et Tableau de bord) pour la gestion et le suivi automatisé des heures complémentaires (CC) des enseignants.**
+- **Stack** : PHP (Laravel), Flutter (App Mobile), React (Dashboard), MySQL.
 
 **9. Conception et développement d'un portail de gestion du cycle de vie des stages et des mémoires de fin d'études.**
 - **Stack** : Python (Django), Vue.js, MySQL.
