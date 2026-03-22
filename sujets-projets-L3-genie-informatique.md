@@ -6,9 +6,9 @@
 
 ---
 
-## Liste des thèmes de recherche (30 sujets)
+## Liste des thèmes de recherche (40 sujets)
 
-Voici les thèmes proposés pour les projets de fin d'études, formulés sous forme d'intitulés de mémoire.
+Voici les thèmes proposés pour les projets de fin d'études, formulés sous forme d'intitulés de mémoire et classés par domaine d'application.
 
 ### I. Gestion Administrative et Sécurité
 
@@ -107,6 +107,38 @@ Voici les thèmes proposés pour les projets de fin d'études, formulés sous fo
 
 **30. Réalisation d'une plateforme immersive de visites virtuelles pour la promotion des filières universitaires auprès des futurs bacheliers.**
 - **Stack** : Three.js, React.js, Firebase.
+
+### V. Fintech, AgriTech et Innovations Sociétales
+
+**31. Conception d'une plateforme de tontine numérique sécurisée avec intégration des services de Mobile Money pour l'épargne collective.**
+- **Stack** : Flutter, Node.js, API Mobile Money (MVola/Orange Money), MongoDB.
+
+**32. Réalisation d'une place de marché (Marketplace) pour la mise en relation directe entre producteurs agricoles locaux et consommateurs.**
+- **Stack** : PHP (Laravel), React Native, MySQL, Géolocalisation.
+
+**33. Développement d'une application mobile pour la gestion des urgences et la mise en relation de donneurs de sang par géolocalisation.**
+- **Stack** : Flutter, Firebase (Realtime Database), API Google Maps.
+
+**34. Mise en œuvre d'un système de scoring de crédit basé sur l'analyse des flux Mobile Money pour les entrepreneurs du secteur informel.**
+- **Stack** : Python (Scikit-learn), Django, API SMS.
+
+**35. Conception d'un portail web pour la dématérialisation des demandes et de la délivrance sécurisée des actes d'état civil.**
+- **Stack** : Java (Spring Boot), PostgreSQL, Signature numérique.
+
+**36. Réalisation d'un système de gestion de tournées et de suivi de livraison du dernier kilomètre pour les petites et moyennes entreprises (PME).**
+- **Stack** : Node.js, Flutter, Algorithmes d'optimisation (VRP), MySQL.
+
+**37. Développement d'un système de surveillance intelligente des cultures et d'automatisation de l'irrigation basé sur l'Internet des Objets (IoT).**
+- **Stack** : Arduino/ESP32, Capteurs d'humidité, MQTT, Python (FastAPI).
+
+**38. Conception et mise en œuvre d'un portefeuille numérique (Wallet) multiservices pour le paiement sécurisé des factures de services publics.**
+- **Stack** : React Native, Node.js, API de paiement tierces, PostgreSQL.
+
+**39. Réalisation d'une plateforme de télémédecine pour la consultation à distance et la gestion des ordonnances électroniques en zone rurale.**
+- **Stack** : WebRTC (Vidéo), Python (Django), MySQL.
+
+**40. Développement d'une application mobile pour le signalement et le suivi de la collecte des déchets urbains par cartographie interactive.**
+- **Stack** : Flutter, Firebase, OpenStreetMap.
 
 ---
 
